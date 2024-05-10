@@ -66,11 +66,11 @@ header-includes:
 
 ![Настройка интерфейсов маршрутизатора msk-donskaya-eademidova-gw-1](image/5.png){#fig:005 width=45%}
 
-## Настройка NAT
+## Проверка NAT
 
 ![Проверка связи между маршрутизаторами](image/6.png){#fig:006 width=90%}
 
-## Настройка NAT
+## Проверка NAT
 
 ![Проверка связи между сервером и маршрутизатором](image/7.png){#fig:007 width=90%}
 
@@ -93,6 +93,30 @@ header-includes:
 ## Настройка NAT
 
 ![Настройка доступа из Интернета](image/12.png){#fig:012 width=90%}
+
+## Проверка NAT
+
+![Доступ dk-donskaya-1 к www.yandex.ru](image/13.png){#fig:013 width=70%}
+
+## Проверка NAT
+
+![Доступ dk-donskaya-1 к esystem.pfur.ru](image/14.png){#fig:014 width=70%}
+
+## Проверка NAT
+
+![Доступ dep-donskaya-1 к www.yandex.ru](image/15.png){#fig:015 width=70%}
+
+## Проверка NAT
+
+![Доступ dep-donskaya-1 к esystem.pfur.ru](image/16.png){#fig:016 width=70%}
+
+## Проверка NAT
+
+![Проверка доступа из Интернета по ftp](image/17.png){#fig:017 width=45%}
+
+## Проверка NAT
+
+![Проверка доступа из Интернета к web-серверу](image/18.png){#fig:018 width=90%}
 
 # Выводы
 
